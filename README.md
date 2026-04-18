@@ -1,9 +1,9 @@
-#QuizMaster Web Quiz Application
+# **QuizMaster Web Quiz Application**
 
 QuizMaster is a web based quiz application designed to provide an interactive and user friendly platform for learning and assessment.
 The system supports both students and teachers with different functionalities to create manage and attempt quizzes efficiently
 
-##Installation and Setup
+## **Installation and Setup**
 
 Clone the repository
 
